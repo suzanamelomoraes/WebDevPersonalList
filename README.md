@@ -23,10 +23,10 @@ https://redux.js.org/
  
  
 ### COURSES 
-</br>
-**FREE** (or you can audit for free without some options e.g. tests and/or exercises)
-</br>
-**Web Development / FrontEnd Development:**
+
+#### FREE (or you can audit for free without some options e.g. tests and/or exercises)  
+
+**Web Development / FrontEnd Development:**  
 Freecodecamp
 https://www.freecodecamp.org/
 
@@ -40,10 +40,10 @@ https://www.udacity.com/course/intro-to-html-and-css--ud001
 
 **EDX**
 https://www.edx.org/course/html5-and-css-fundamentals
- 
 </br> 
-**PAID**
-</br>
+
+#### PAID
+
 Udacity, EDX, Udemy, eg.  
 https://www.udemy.com/course/modern-javascript-from-the-beginning/
  
@@ -60,7 +60,7 @@ https://eloquentjavascript.net/
  
  
 ### Websites for TUTORIALS and Information (and to be your best friend):
-</br>
+
 **Mozilla**  
 https://developer.mozilla.org/en-US/docs/Web/HTML  
 https://developer.mozilla.org/en-US/docs/Web/CSS  
@@ -92,7 +92,7 @@ https://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-pa
  
  
 ### CRASH COURSES on YouTube
-</br>
+
 **GIT**  
  
 https://www.youtube.com/watch?v=RGOj5yH7evk  
