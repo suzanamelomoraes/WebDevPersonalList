@@ -4,7 +4,7 @@
 Hi there,
 
 
-Here is a list of useful sources to help you with the often “Where to start” question.\
+Here is a list of useful sources to help you with the often “Where to start” question.
 
 
 Also, I included a few very personal tips below:\
@@ -15,10 +15,11 @@ Also, I included a few very personal tips below:\
 5 - Never rely on your learning journey only on tutorials and articles. Your main source of information MUST be the documentation.\
 </br>
 
-https://docs.npmjs.com/\
-https://reactjs.org/\
-https://redux.js.org/\
-
+https://docs.npmjs.com/  
+https://reactjs.org/  
+https://redux.js.org/  
+</br>
+ 
  
  
 ### COURSES 
@@ -47,16 +48,19 @@ Udacity, EDX, Udemy, eg.
 https://www.udemy.com/course/modern-javascript-from-the-beginning/
  
 https://www.udemy.com/course/the-web-developer-bootcamp/
+</br>
+ 
  
  
  
 ### BOOKs:
 https://eloquentjavascript.net/
+</br>
  
  
  
 ### Websites for TUTORIALS and Information (and to be your best friend):
-
+</br>
 **Mozilla**  
 https://developer.mozilla.org/en-US/docs/Web/HTML  
 https://developer.mozilla.org/en-US/docs/Web/CSS  
@@ -69,6 +73,7 @@ https://www.w3schools.com/js/default.asp
  
 **CSS-Tricks**  
 https://css-tricks.com/
+</br> 
  
  
  
@@ -82,11 +87,12 @@ https://www.freecodecamp.org/news/common-mistakes-beginning-web-development-stud
 https://medium.com/codex/youre-missing-out-on-vanilla-js-91aceec917d6  
  
 https://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-part-1/  
+</br>
  
  
  
 ### CRASH COURSES on YouTube
- 
+</br>
 **GIT**  
  
 https://www.youtube.com/watch?v=RGOj5yH7evk  
@@ -138,7 +144,8 @@ https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
 **Redux**  
  
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK  
- 
+</br>
+
 
  
 ### CHANNELs and instructors I follow:
