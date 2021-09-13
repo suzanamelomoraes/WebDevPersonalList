@@ -15,9 +15,9 @@ Also, I included a few very personal tips below:
 5 - Never rely on your learning journey only on tutorials and articles. Your main source of information MUST be the documentation.  
 
 
-https://docs.npmjs.com/
-https://reactjs.org/
-https://redux.js.org/
+https://docs.npmjs.com/  
+https://reactjs.org/  
+https://redux.js.org/  
 
  
  
@@ -30,7 +30,7 @@ Freecodecamp
 https://www.freecodecamp.org/
 
 **Udacity**
-eg. GIT
+eg. GIT  
 https://www.udacity.com/course/version-control-with-git--ud123
  
 **HTML & CSS**
@@ -43,7 +43,7 @@ https://www.edx.org/course/html5-and-css-fundamentals
  
 **PAID**
  
-Udacity, EDX, Udemy, eg.
+Udacity, EDX, Udemy, eg.  
 https://www.udemy.com/course/modern-javascript-from-the-beginning/
  
 https://www.udemy.com/course/the-web-developer-bootcamp/
@@ -58,14 +58,14 @@ https://eloquentjavascript.net/
 ### Websites for TUTORIALS and Information (and to be your best friend):
 
 **Mozilla**  
-https://developer.mozilla.org/en-US/docs/Web/HTML
-https://developer.mozilla.org/en-US/docs/Web/CSS
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://developer.mozilla.org/en-US/docs/Web/HTML  
+https://developer.mozilla.org/en-US/docs/Web/CSS  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript  
  
 **W3C**  
-https://www.w3schools.com/TAGS/default.ASP
-https://www.w3schools.com/css/default.asp
-https://www.w3schools.com/js/default.asp
+https://www.w3schools.com/TAGS/default.ASP  
+https://www.w3schools.com/css/default.asp  
+https://www.w3schools.com/js/default.asp  
  
 **CSS-Tricks**  
 https://css-tricks.com/
@@ -77,11 +77,11 @@ https://css-tricks.com/
 General topics and articles about Web Dev can be found at:  
 https://dev.to/
  
-https://www.freecodecamp.org/news/common-mistakes-beginning-web-development-students-make/
+https://www.freecodecamp.org/news/common-mistakes-beginning-web-development-students-make/  
  
-https://medium.com/codex/youre-missing-out-on-vanilla-js-91aceec917d6
+https://medium.com/codex/youre-missing-out-on-vanilla-js-91aceec917d6  
  
-https://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-part-1/
+https://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-part-1/  
  
  
  
@@ -89,75 +89,75 @@ https://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-pa
  
 **GIT**  
  
-https://www.youtube.com/watch?v=RGOj5yH7evk
+https://www.youtube.com/watch?v=RGOj5yH7evk  
  
-https://www.youtube.com/watch?v=_OZVJpLHUaI
+https://www.youtube.com/watch?v=_OZVJpLHUaI  
  
 **HTML**  
  
-https://www.youtube.com/watch?v=UB1O30fR-EE
+https://www.youtube.com/watch?v=UB1O30fR-EE  
  
-https://www.youtube.com/watch?v=DPnqb74Smug
+https://www.youtube.com/watch?v=DPnqb74Smug  
  
 **CSS**  
 
-https://www.youtube.com/watch?v=mudOTSUumXg
+https://www.youtube.com/watch?v=mudOTSUumXg  
  
-https://www.youtube.com/watch?v=yfoY53QXEnI
+https://www.youtube.com/watch?v=yfoY53QXEnI  
  
 **JavaScript**  
 
-https://www.youtube.com/watch?v=hdI2bqOjy3c
+https://www.youtube.com/watch?v=hdI2bqOjy3c  
  
-https://www.youtube.com/watch?v=W6NZfCO5SIk
+https://www.youtube.com/watch?v=W6NZfCO5SIk  
  
 **JavaScript Dom**  
 
 Lecture with 4 parts:
-https://www.youtube.com/watch?v=0ik6X4DJKCc
-https://www.youtube.com/watch?v=mPd2aJXCZ2g
-https://www.youtube.com/watch?v=wK2cBMcDTss
-https://www.youtube.com/watch?v=i37KVt_IcXw
+https://www.youtube.com/watch?v=0ik6X4DJKCc  
+https://www.youtube.com/watch?v=mPd2aJXCZ2g  
+https://www.youtube.com/watch?v=wK2cBMcDTss  
+https://www.youtube.com/watch?v=i37KVt_IcXw  
  
 **Node.js**  
 
-https://www.youtube.com/watch?v=U8XF6AFGqlc
+https://www.youtube.com/watch?v=U8XF6AFGqlc  
  
-https://www.youtube.com/watch?v=TlB_eWDSMt4
+https://www.youtube.com/watch?v=TlB_eWDSMt4  
  
 **React**  
 
-https://www.youtube.com/watch?v=Ke90Tje7VS0&t=4086s
+https://www.youtube.com/watch?v=Ke90Tje7VS0&t=4086s  
  
-https://www.youtube.com/watch?v=dGcsHMXbSOA
+https://www.youtube.com/watch?v=dGcsHMXbSOA  
  
-https://www.youtube.com/watch?v=w7ejDZ8SWv8
+https://www.youtube.com/watch?v=w7ejDZ8SWv8  
 
-https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3  
  
 **Redux**  
  
-https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK  
  
 
  
 ### CHANNELs and instructors I follow:
  
 **Mosh**  
-https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA
+https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA  
  
 **Traversy:**  
-https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA  
  
 **Academind:**  
-https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w
+https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w  
  
 **Code Evolution:**  
-https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw
+https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw  
  
 **Dev Ed**  
-https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
+https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q  
  
 **Florin Pop**  
-https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA
+https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA  
 
