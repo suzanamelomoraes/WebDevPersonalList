@@ -22,9 +22,9 @@ https://redux.js.org/
  
  
  
-### COURSES 
+## COURSES 
 
-#### FREE (or you can audit for free without some options e.g. tests and/or exercises)  
+### FREE (or you can audit for free without some options e.g. tests and/or exercises)  
 
 **Web Development / FrontEnd Development:**  
 Freecodecamp
@@ -42,7 +42,7 @@ https://www.udacity.com/course/intro-to-html-and-css--ud001
 https://www.edx.org/course/html5-and-css-fundamentals
 </br> 
 
-#### PAID
+### PAID
 
 Udacity, EDX, Udemy, eg.  
 https://www.udemy.com/course/modern-javascript-from-the-beginning/
@@ -53,13 +53,13 @@ https://www.udemy.com/course/the-web-developer-bootcamp/
  
  
  
-### BOOKs:
+## BOOKs:
 https://eloquentjavascript.net/
 </br>
  
  
  
-### Websites for TUTORIALS and Information (and to be your best friend):
+## Websites for TUTORIALS and Information (and to be your best friend):
 
 **Mozilla**  
 https://developer.mozilla.org/en-US/docs/Web/HTML  
@@ -77,7 +77,7 @@ https://css-tricks.com/
  
  
  
-### Useful Websites for ARTICLES:
+## Useful Websites for ARTICLES:
  
 General topics and articles about Web Dev can be found at:  
 https://dev.to/
@@ -91,7 +91,7 @@ https://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-pa
  
  
  
-### CRASH COURSES on YouTube
+## CRASH COURSES on YouTube
 
 **GIT**  
  
@@ -148,7 +148,7 @@ https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
 
 
  
-### CHANNELs and instructors I follow:
+## CHANNELs and instructors I follow:
  
 **Mosh**  
 https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA  
