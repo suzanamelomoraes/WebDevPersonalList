@@ -93,7 +93,11 @@ https://medium.com/codex/youre-missing-out-on-vanilla-js-91aceec917d6
 https://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-part-1/  
 </br>
  
- 
+## Great articles / Other resources
+
+Awesome JavaAscript Resources:
+https://github.com/olawanlejoel/Awesome-Javascript-resources
+</br>
  
 ## CRASH COURSES on YouTube
 
