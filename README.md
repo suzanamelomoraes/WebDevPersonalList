@@ -95,10 +95,11 @@ https://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-pa
  
 ## Great articles / Other resources
 
-Awesome JavaAscript Resources:
+Awesome JavaScript Resources:
 https://github.com/olawanlejoel/Awesome-Javascript-resources
 </br>
- 
+
+
 ## CRASH COURSES on YouTube
 
 **GIT**  
