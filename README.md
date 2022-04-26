@@ -177,8 +177,11 @@ https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
 **Florin Pop**  
 https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA  
 
+
+
 ## Ready to go?
 
 Here is one last advice:
+**Getting a job as a Software Developer**
 
 https://www.youtube.com/watch?v=JxUDdUU6N6k
