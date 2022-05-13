@@ -33,16 +33,25 @@ https://www.freecodecamp.org/
 MDN - Learn Web Development
 https://developer.mozilla.org/en-US/docs/Learn
 
+
 **Udacity**
-eg. GIT  
+ 
+GIT  
 https://www.udacity.com/course/version-control-with-git--ud123
  
-**HTML & CSS**
+HTML & CSS
+
 https://www.udacity.com/course/intro-to-html-and-css--ud001
 
 
+**The Odin Project**
+https://www.theodinproject.com/
+
 **EDX**
+
 https://www.edx.org/course/html5-and-css-fundamentals
+
+https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 </br> 
 
 ### PAID
