@@ -27,16 +27,24 @@ https://redux.js.org/
 ### FREE (or you can audit for free without some options e.g. tests and/or exercises)  
 
 **Web Development / FrontEnd Development:**  
+
 Freecodecamp
+
 https://www.freecodecamp.org/
 
 MDN - Learn Web Development
+
 https://developer.mozilla.org/en-US/docs/Learn
+
+W3C - HTML, CSS & JavaScript
+
+https://www.w3schools.com/
 
 
 **Udacity**
  
-GIT  
+GIT
+
 https://www.udacity.com/course/version-control-with-git--ud123
  
 HTML & CSS
@@ -45,7 +53,9 @@ https://www.udacity.com/course/intro-to-html-and-css--ud001
 
 
 **The Odin Project**
+
 https://www.theodinproject.com/
+
 
 **EDX**
 
@@ -80,7 +90,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS
 https://developer.mozilla.org/en-US/docs/Web/JavaScript  
  
 **W3C**  
-https://www.w3schools.com/TAGS/default.ASP  
+https://www.w3schools.com/html/default.asp 
 https://www.w3schools.com/css/default.asp  
 https://www.w3schools.com/js/default.asp  
  
