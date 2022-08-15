@@ -16,7 +16,7 @@ Also, I included a few very personal tips below:\
 </br>
 
 https://docs.npmjs.com/  
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript  
 https://reactjs.org/  
 https://redux.js.org/  
 </br>
