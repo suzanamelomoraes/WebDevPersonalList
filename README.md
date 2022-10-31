@@ -202,6 +202,24 @@ https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
 https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA  
 
 
+## Learning playing games
+
+https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
+## Ideas for projects
+
+https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
+## Practice, practice, practice
+
+**Katas**
+https://jskatas.org/katas/groups/level-easy/
+
+**Exercism**
+https://exercism.org/tracks/javascript/exercises
+
+**HackerRack**
+https://exercism.org/tracks/javascript/exercises
 
 ## Ready to go?
 
