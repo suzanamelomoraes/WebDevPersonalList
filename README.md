@@ -9,9 +9,9 @@ Here is a list of useful sources to help you with the often “Where to start”
 
 
 Also, I included a few very personal tips below:\
-1 - The higher the number of different and reliable sources of information, the better will be your knowledge about a topic. Each experience and learning time is unique and must be respected. What works for me may not work well for you, so never stick with only one source of information.\
+1 - The higher the number of different and reliable sources of information, the better your knowledge about a topic will be. Each experience and learning time is unique and must be respected. What works for me may not work well for you, so never stick with only one source of information.\
 2 - This list is far from being enough for you to become a web developer (check again my tip number 1), however independent of the pathway you decide to follow or course you decide to take, covering all these topics in advance will make your life pretty much easier to understand what will come after.\
-3 - Find what works better for you: instructors, courses, videos, but NEVER stick only to tutorials. Build your own projects. Try different things, analyse the results and learn from them. Start to explore places where you can ask for help (such as meetup groups, slack channels, and websites such as https://stackoverflow.com/ - PS: incidentally, this is one of the websites that will be part of your every day for the rest of your life when moving to “programming life”)\
+3 - Find what works better for you: instructors, courses, videos, but NEVER stick only to tutorials. Build your projects. Try different things, analyse the results and learn from them. Start to explore places where you can ask for help (such as meetup groups, slack channels, and websites such as https://stackoverflow.com/ - PS: incidentally, this is one of the websites that will be part of your every day for the rest of your life when moving to “programming life”)\
 4 - Never be ashamed to ask questions. There are no stupid questions. If someone does not answer you, he is the stupid, NOT you. Knock on another door and ask again. There are lots of good developers willing to mentor someone engaged, motivated and curious.\
 5 - Never rely on your learning journey only on tutorials and articles. Your main source of information MUST be the documentation. E.g:\
 </br>
@@ -29,7 +29,7 @@ Please note that these lines below are based on my personal experience and mainl
  
 ## COURSES 
 
-### FREE (or you can audit for free without some options e.g. tests and/or exercises)  
+### FREE (or you can audit for free without some options, e.g. tests and/or exercises)  
 
 **Web Development / FrontEnd Development:**  
 
