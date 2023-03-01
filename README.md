@@ -101,6 +101,9 @@ https://www.w3schools.com/js/default.asp
  
 **CSS-Tricks**  
 https://css-tricks.com/
+
+**JavaScript.Info**
+https://javascript.info/first-steps
 </br> 
  
  
@@ -202,13 +205,15 @@ https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
 https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA  
 
 
-## Learning playing games
+## Learning by playing games
 
 https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
 
 ## Ideas for projects
 
 https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
 
 ## Practice, practice, practice
 
@@ -220,6 +225,7 @@ https://exercism.org/tracks/javascript/exercises
 
 **HackerRack**
 https://exercism.org/tracks/javascript/exercises
+
 
 ## Ready to go?
 
