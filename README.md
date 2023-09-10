@@ -31,9 +31,10 @@ Please note that these lines below are based on my personal experience and mainl
 
 ### FREE (or you can audit for free without some options, e.g. tests and/or exercises)  
 
-**Web Development / FrontEnd Development:**  
+**Web Development / Front End Development / Back End Development and more:**  
 
 Freecodecamp
+(Responsive Web Design / Front End / Back End / Databases / Data Analysis / Machine Learning)
 
 https://www.freecodecamp.org/
 
