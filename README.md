@@ -23,9 +23,13 @@ Redux: https://redux.js.org/
 </br>
 
 
-Please note that these lines below are based on my personal experience and mainly related to JavaScript programming language, which was my learning pathway.
+Please note that these lines below are based on my experience and are mainly related to JavaScript programming language, which was my learning pathway. You are welcome to provide feedback or suggest more courses and links to be included here.
 </br>
- 
+
+## Roadmap
+It's not mandatory, but a roadmap can help you with your study plan and path to follow
+
+https://roadmap.sh/
  
 ## COURSES 
 
@@ -49,13 +53,10 @@ https://www.w3schools.com/
 
 **Udacity**
  
-GIT
-
-https://www.udacity.com/course/version-control-with-git--ud123
+GIT: https://www.udacity.com/course/version-control-with-git--ud123
  
-HTML & CSS
+HTML & CSS: https://www.udacity.com/course/intro-to-html-and-css--ud001
 
-https://www.udacity.com/course/intro-to-html-and-css--ud001
 
 
 **The Odin Project**
@@ -65,9 +66,17 @@ https://www.theodinproject.com/
 
 **EDX**
 
-https://www.edx.org/course/html5-and-css-fundamentals
+HTML & CSS: https://www.edx.org/course/html5-and-css-fundamentals
 
-https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+JavaScript: https://www.edx.org/learn/javascript/the-world-wide-web-consortium-w3c-javascript-introduction
+
+Professional Certificate in Front-End Web Developer: https://www.edx.org/certificates/professional-certificate/w3cx-front-end-web-developer
+
+HarvardX - Introduction to Computer Science: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+
+HarvardX - CS50's Web Programming with Python and JavaScript: https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript
+
+IBM - Introduction to Web Development with HTML5, CSS3, and JavaScript: https://www.edx.org/learn/web-development/ibm-introduction-to-web-development-with-html5-css3-and-javascript
 </br> 
 
 ### PAID
@@ -76,6 +85,10 @@ Udacity, EDX, Udemy, eg.
 https://www.udemy.com/course/modern-javascript-from-the-beginning/
  
 https://www.udemy.com/course/the-web-developer-bootcamp/
+
+Introduction to Programming: https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
+
+
 </br>
  
  
@@ -88,17 +101,17 @@ https://eloquentjavascript.net/
  
  
  
-## Websites for TUTORIALS and Information (and to be your best friend):
+## Websites for TUTORIALS and Information (and to be your best friend forever):
 
 **Mozilla**  
-https://developer.mozilla.org/en-US/docs/Web/HTML  
-https://developer.mozilla.org/en-US/docs/Web/CSS  
-https://developer.mozilla.org/en-US/docs/Web/JavaScript  
+HTML: https://developer.mozilla.org/en-US/docs/Web/HTML  
+CSS: https://developer.mozilla.org/en-US/docs/Web/CSS  
+JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript  
  
 **W3C**  
-https://www.w3schools.com/html/default.asp 
-https://www.w3schools.com/css/default.asp  
-https://www.w3schools.com/js/default.asp  
+HTML: https://www.w3schools.com/html/default.asp 
+CSS: https://www.w3schools.com/css/default.asp  
+JavaScript: https://www.w3schools.com/js/default.asp  
  
 **CSS-Tricks**  
 https://css-tricks.com/
@@ -112,13 +125,13 @@ https://javascript.info/first-steps
 ## Useful Websites for ARTICLES:
  
 General topics and articles about Web Dev can be found at:  
-https://dev.to/
+Dev.to: https://dev.to/
  
-https://www.freecodecamp.org/news/common-mistakes-beginning-web-development-students-make/  
+Freecodecamp: https://www.freecodecamp.org/news/common-mistakes-beginning-web-development-students-make/  
  
-https://medium.com/codex/youre-missing-out-on-vanilla-js-91aceec917d6  
+Medium: https://medium.com/codex/youre-missing-out-on-vanilla-js-91aceec917d6  
  
-https://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-part-1/  
+Readwrite: https://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-part-1/  
 </br>
  
 ## Great articles / Other resources
@@ -208,7 +221,9 @@ https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA
 
 ## Learning by playing games
 
-https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+15 Games That'll Teach You How to Code (That Also Happen to Be Really Fun): [https://www.freecodecamp.org/news/javascript-projects-for-beginners/](https://www.themuse.com/advice/15-games-thatll-teach-you-how-to-code-that-also-happen-to-be-really-fun)
+
+12 Free Coding Games to Learn Programming for Beginners: https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/
 
 
 ## Ideas for projects
